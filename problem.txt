@@ -1,0 +1,7 @@
+Create an HTTP server that exposes the following endpoints.
+
+POST /createAccount
+- Takes in username and password and creates an account, or reports error.
+
+GET /logIn
+- Takes in username and password and tests whether the username/password combination is correct.
